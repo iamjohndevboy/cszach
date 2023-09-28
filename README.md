@@ -57,29 +57,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 [![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
-<p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-    </b>
-</p>
 
----
 
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
-
-<a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
-</a>
 
 <a href="https://www.buymeacoffee.com/cszach">
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
